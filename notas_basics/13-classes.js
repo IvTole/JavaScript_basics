@@ -172,4 +172,4 @@ class MathOperations {
 //let myClass = new MathOperations()
 // console.log(myClass.sum(5,10))
 
-console.log(MathOperations.sum(5,10)) // no necitamos crear una intancia para esta clase
+console.log(MathOperations.sum(5,10)) // no necesitamos crear una intancia para esta clase
