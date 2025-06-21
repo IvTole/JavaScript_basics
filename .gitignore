@@ -6,6 +6,6 @@
 **/.ipynb_checkpoints
 
 # Js packages
-notas_basics/node_modules/
-notas_basics/package-lock.json
-notas_basics/package.json
+**/node_modules/
+**/package-lock.json
+**/package.json
