@@ -2,7 +2,7 @@
 
 Este es un repositorio que va siguiendo el curso de MoureDev:
 - GitHub: [hello-javascript](https://github.com/mouredev/hello-javascript)
-- YouTube: [Curso JavaScript desde cero](https://www.youtube.com/watch?v=1glVfFxj8a4), [Curso JavaScript intermedio]([https://www.youtube.com/watch?v=1glVfFxj8a4](https://www.youtube.com/watch?v=iJvLAZ8MJ2E&t))
+- YouTube: [Curso JavaScript desde cero](https://www.youtube.com/watch?v=1glVfFxj8a4), [Curso JavaScript intermedio](https://www.youtube.com/watch?v=iJvLAZ8MJ2E&t).
 
 ## Acerca de este repositorio
 
