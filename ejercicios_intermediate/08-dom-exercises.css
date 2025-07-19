@@ -1,0 +1,8 @@
+.resaltado {
+  background-color: yellow;
+  padding: 10px;
+  border: 2px solid orange;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 10px;
+}
